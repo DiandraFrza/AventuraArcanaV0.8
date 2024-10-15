@@ -1,0 +1,1 @@
+if(hp <= 0) instance_destroy();//Monster dies if hp <= 0
