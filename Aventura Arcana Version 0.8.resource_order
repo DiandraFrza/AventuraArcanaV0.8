@@ -336,6 +336,7 @@
     {"name":"Sprite157","order":3,"path":"sprites/Sprite157/Sprite157.yy",},
     {"name":"Sprite158","order":4,"path":"sprites/Sprite158/Sprite158.yy",},
     {"name":"Sprite159","order":5,"path":"sprites/Sprite159/Sprite159.yy",},
+    {"name":"Sprite160","order":6,"path":"sprites/Sprite160/Sprite160.yy",},
     {"name":"sPuzzleStone_Active","order":35,"path":"sprites/sPuzzleStone_Active/sPuzzleStone_Active.yy",},
     {"name":"sPuzzleStone_Inactive","order":27,"path":"sprites/sPuzzleStone_Inactive/sPuzzleStone_Inactive.yy",},
     {"name":"sQuit","order":1,"path":"sprites/sQuit/sQuit.yy",},
